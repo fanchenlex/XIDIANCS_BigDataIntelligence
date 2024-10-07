@@ -1,0 +1,2 @@
+# XIDIANCS_BigDataIntelligence
+西电计科大数据智能方向大学资料分享
